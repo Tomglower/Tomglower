@@ -3,7 +3,7 @@
 ## Connect with me 
 <div id="badges">
   
-  <a href="https://t.me/mrkwss">
+  <a href="https://t.me/mrkwsup">
     <img src="https://img.shields.io/badge/telegram-333?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
